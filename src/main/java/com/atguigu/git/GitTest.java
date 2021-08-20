@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("hellogit3!");
         System.out.println("hellogit4!");
         System.out.println("master test!");
+        System.out.println("hot-fix test!");
     }
 }
